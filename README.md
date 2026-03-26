@@ -1,5 +1,5 @@
 # Digital Literacy Project - VIT Bhopal
-**Student Name:** Sweksha  
+**Student Name:** Sweksha Kakkar 
 **Registration Number:** 25BCY10159  
 **Branch:** CSE (Cyber Security)
 
